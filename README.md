@@ -55,4 +55,4 @@ I enjoy working at the intersection of **technology, strategy, and execution**, 
 ---
 
 📫 **Let’s connect:**  
-- GitHub: https://github.com/OmMakadia
+- GitHub: https://github.com/sandipajakiya
