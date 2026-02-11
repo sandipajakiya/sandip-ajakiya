@@ -20,7 +20,6 @@ I enjoy working at the intersection of **technology, strategy, and execution**, 
 ## 🧩 Current Focus
 
 - Building production-ready **full-stack web applications**
-- Leading and contributing to **business development initiatives**
 - Managing projects with a balance of **technical delivery and business goals**
 - Writing clean, maintainable, and scalable code
 
