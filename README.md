@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Sandip Akakiya
+## 👋 Hi, I'm Sandip Akakiya.
 
 I’m a **Vibe Coder**,**Full-Stack Developer** and **AI Software Developer** with experience in building scalable web applications and managing business growth initiatives.
 
